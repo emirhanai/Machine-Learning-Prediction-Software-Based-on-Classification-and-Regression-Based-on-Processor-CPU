@@ -1,5 +1,5 @@
 # **Machine Learning Prediction Software Based on Classification and Regression Based on Processor [CPU] Specifications**
-I developed Machine Learning Prediction Software based on Regression and Classifying Processors according to their specifications. This machine learning software passed all scores by 1.0, which is a big score. The processor company predictions according to the technical specifications you enter in the prediction tool.
+I developed Machine Learning Prediction Software based on Regression and Classifying of Processors according to their specifications. This machine learning software passed all scores by 1.0, which is a big score. I used Extra tree classifier and Extra tree regression model. The processor company predictions according to the technical specifications you enter in the prediction tool.
 
 The values you enter should be (respectively):
 
